@@ -1,18 +1,17 @@
 # EllisFossettDev
 
 <p>Game Developer</p>
-<p>Introduction...</p>
+<p>Programming, 3D Modelling</p>
+<p>Hello, My name is Ellis, In august of 2020 I was told my job as a retail manager was up for redundancy, in October it was official that I was made redundant. 
+  Being such a trying time I decided to go back to what I wanted to do in college and learn about making games. Since 2021 I have taught myself Blender and Substance Painter, 
+  lost 50KGs and Finished two years of University with an A on every assignment. My next quest is to see my name in the credits of a Video game.</p>
 
-## Hi there 👋
+- 🌎 Based in The United Kingdom
+- 🎓 Final year BSc (Hons) Games Development Student
+- 🇫🇷 I’m currently learning French using Duolingo
+- 💻 Check out my website www.ellisfossett.net
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+#
 
 ### Languages & Tools
 
