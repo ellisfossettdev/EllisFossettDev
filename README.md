@@ -7,9 +7,10 @@
   lost 50KGs and Finished two years of University with an A on every assignment. My next quest is to see my name in the credits of a Video game.</p>
 
 - 🌎 Based in The United Kingdom
-- 🎓 Final year BSc (Hons) Games Development Student
+- 🎓 First Class (1:1) BSc (Hons) Games Development Graduate
 - 🇫🇷 I’m currently learning French using Duolingo
 - 💻 Check out my website www.ellisfossett.net
+- Check out my art https://www.artstation.com/ellisfossett
 
 #
 
