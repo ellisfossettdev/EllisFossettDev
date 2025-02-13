@@ -8,7 +8,11 @@
 
 - 🌎 Based in The United Kingdom
 - 🎓 First Class (1:1) BSc (Hons) Games Development Graduate
+
+<p>What am I currently working on?</p>
 - 🇫🇷 I’m currently learning French using Duolingo
+
+<p>Socials</p>
 - 💻 Check out my website www.ellisfossett.net
 - Check out my art https://www.artstation.com/ellisfossett
 
