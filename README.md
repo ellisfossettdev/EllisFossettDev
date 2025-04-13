@@ -4,7 +4,7 @@
 <p>Programming, 3D Modelling, QA Testing</p>
 <p>Hello, My name is Ellis, In august of 2020 I was told my job as a retail manager was up for redundancy, in October it was official that I was made redundant. 
   Being such a trying time I decided to go back to what I wanted to do in college and learn about making games. Since 2021 I have taught myself Blender and Substance Painter, 
-  lost 50KGs and Finished two years of University with an A on every assignment. My next quest is to see my name in the credits of a Video game.</p>
+  lost 50KGs and Finished three years of University with an A on every assignment and graduating with a first class degree. My next quest is to see my name in the credits of a Video game.</p>
 
 - 🌎 Based in Essex, United Kingdom
 
