@@ -18,11 +18,13 @@
 #
 
 <p>What am I currently working on?</p>
-- 🇫🇷  I’m currently learning French using Duolingo <br/>
+- 🇫🇷 I’m currently learning French using Duolingo <br/>
 - 🎸 Producing music in FLStudio <br/>
 - 🧑‍💻 Improving my web development knowledge <br/>
 - 🐍 Improving my python knowledge <br/>
 - 🎮 Working on a game in UE5 <br/>
+- 🎮 Working on a game in Unity <br/>
+- 😳 Learning Swift <br/>
 
 #
 
